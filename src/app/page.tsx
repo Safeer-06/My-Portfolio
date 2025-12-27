@@ -201,10 +201,10 @@ const InteractivePortfolio = () => {
                       <span>safeerhumayoon@gmail.com</span>
                     </div>
                   </a>
-                  <a href="tel:+923002312810">
+                  <a href="tel:+923099825078">
                     <div className="flex items-center gap-2">
                       <Phone className="w-4 h-4" />
-                      <span>+92 3002312810</span>
+                      <span>+92 3099825078</span>
                     </div>
                   </a>
                   <div className="flex items-center gap-2">
